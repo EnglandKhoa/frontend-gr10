@@ -50,7 +50,7 @@ export default async function Home() {
           Kịch bản báo cáo: Sửa dòng chữ khuyến mãi -> Push Git -> Vercel tự update */}
       <div className="bg-blue-600 text-white p-3 text-center">
         <p className="font-bold animate-pulse">
-          ⚡ SALE SẬP SÀN: GIẢM GIÁ 50% CHO NHÓM 10 ⚡
+          ⚡ SALE SẬP SÀN: GIẢM GIÁ 20% CHO SINH VIÊN UEH ⚡
         </p>
       </div>
 
