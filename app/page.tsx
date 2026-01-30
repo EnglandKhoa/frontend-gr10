@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic'; 
 import Image from "next/image";
 
 // --- DỮ LIỆU SẢN PHẨM (Gộp trực tiếp vào đây để tránh lỗi file) ---
